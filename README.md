@@ -33,8 +33,7 @@ The dashboard is built using Microsoft Excel with interactive navigation between
 ---
 
 ## 🔹 Dataset
-Due to large size (197K+ rows), dataset is available here:  
-Swiggy - Excel Project – Google Drive https://drive.google.com/drive/u/0/mobile/folders/1YCMSykZ-rv27HYPlADonBKDGAgTfsjsa?usp=sharing 
+The dataset used for this project is included in this repository as Raw Dataset in Excel file.
 
 ---
 
